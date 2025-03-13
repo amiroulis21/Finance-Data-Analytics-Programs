@@ -3,7 +3,7 @@ Track stock price changes, identify top-performing stocks, and analyze stock tre
 
 This Python program generates synthetic stock market data and analyzes stock price movements over a period of 30 days. It calculates:
 
-Daily percentage change for each stock
+Daily percentage change for each stock\n
 Best-performing stocks based on total percentage change
 Average daily percentage change per stock
 Visualizes stock price trends over time
